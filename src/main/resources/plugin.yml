@@ -1,0 +1,5 @@
+name: hopsAndGrapes
+version: '1.0.0'
+main: fr.cyberdodo.hopsAndGrapes.HopsAndGrapesPlugin
+api-version: '1.21'
+authors: [ Dodo_Report ]
